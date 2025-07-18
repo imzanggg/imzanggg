@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Giang 👋</h1>
 
-🎓 I'm a Information Security student  
+🎓 I'm an Information Security student  
 🛡️ Passionate about Cybersecurity, Cryptography & Backend Development  
 📫 Email: giangcam2005@gmail.com
 
